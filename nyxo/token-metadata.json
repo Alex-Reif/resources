@@ -3,7 +3,7 @@
   "symbol": "NYXO",
   "decimals": 6,
   "description": "Nyxo Capital Token for investment and dividend distribution",
-  "image": "https://raw.githubusercontent.com/Alex-Reif/resources/nyxo/images/4-logo.png",
+  "image": "https://raw.githubusercontent.com/Alex-Reif/resources/main/nyxo/images/4-logo.png",
   "external_link": "https://your-project-website.com",
   "properties": {
     "tokenType": "ERC20",
